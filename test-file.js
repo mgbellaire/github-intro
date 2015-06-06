@@ -1,4 +1,5 @@
 var subtract = function (x, y) {
-  return x - y;
+  var returnValue = x - y;
+  return returnValue;
 },
 twominustwo = subtract(2, 2);
